@@ -1,0 +1,6 @@
+{
+"EventHubNamespace": "EventHubNamespace",
+"EventHubName": "EventHubName",
+"PolicyName": "Send",
+"Key": "Key"
+}
